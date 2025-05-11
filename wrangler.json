@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sarah",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3632005d-4ffa-44a7-bc78-c77045aa66b6",
+      "database_name": "Sara_DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
